@@ -2,7 +2,7 @@
 
 ## Flask, SQLAlchemy in Python
 
-[https://day-70-blog-hosting.onrender.com](https://day-70-blog-hosting.onrender.com) <- *render에서 호스팅 중*
+[https://day-70-blog-hosting.onrender.com](https://day-70-blog-hosting.onrender.com) <- *render에서 호스팅 중 (처음 접속시 느림)*
 
 - 기간 : 2학년 겨울방학
 
